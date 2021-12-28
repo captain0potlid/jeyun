@@ -6,40 +6,32 @@
 <body>
 <table border="1" bordercolor="blue" width ="500" height="300" align = "center" >
     <tr bgcolor="blue" align ="center">
-	<p><td colspan = "3" span style="color:white">오늘의 수입/지출</td></p>
+	<p><td colspan = "3" span style="color:white">플러그인 작동환경</td></p>
     </tr>
     <tr align = "center" bgcolor="skybule">
-	<td>내용</td>
-	<td>수입</td>
-	<td>지출</td>
+	<td>사양</td>
+	<td>최소</td>
+	<td>권장</td>
     </tr>
     <tr>
-	<td>월급!</td>
-	<td>1,000,000</td>
-	<td></td>
+	<td>JVM(자바)</td>
+	<td>1.8(or 8)</td>
+	<td>11 LSC</td>
     </tr>
     <tr>
-	<td>점심값</td>
-	<td></td>
-	<td>5,000</td>
+	<td>RAM(메모리)</td>
+	<td>1GB</td>
+	<td>4GB</td>
     </tr>
     <tr>
-	<td>부모님선물</td>
-	<td></td>
-	<td>30,000</td>
+	<td>Spigot/Bukkit</td>
+	<td>1.87</td>
+	<td>2.43.9</td>
     </tr>
     <tr>
-	<td rowspan="3" align = "center" bgcolor="skyblue">총계</td>
-	<td>수입</td>
-	<td>지출</td>
-    </tr>
-    <tr>
-	<td>1,000,000</td>
-	<td>35,000</td>	
-    </tr>
-    <tr>
-	<td>남은돈</td>
-	<td>965,000</td>	
+	<td rowspan="3" align = "center" bgcolor="skyblue">☆</td>
+	<td rowspan="3" align = "center" bgcolor="skyblue">★</td>
+	<td rowspan="3" align = "center" bgcolor="skyblue">☆</td>
     </tr>
 </table>
 </body>

@@ -33,6 +33,7 @@
 	<td rowspan="3" align = "center" bgcolor="skyblue">★</td>
 	<td rowspan="3" align = "center" bgcolor="skyblue">☆</td>
     </tr>
+	<tr><td></td></tr>
 </table>
 </body>
 </html>

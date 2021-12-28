@@ -2,14 +2,7 @@
 - WITH MY WHOLE LOVE AND FAITH N ALL
 - GRACEFUL HEARTS MAKE WORLD BETTER
 
-<%@ page language="java" contentType="text/html; charset=EUC-KR"
-    pageEncoding="EUC-KR"%>
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
-<html>
-<head>
-<meta charset="EUC-KR">
-<title>Insert title here</title>
-</head>
+
 <body>
 <table border="1" bordercolor="blue" width ="500" height="300" align = "center" >
     <tr bgcolor="blue" align ="center">

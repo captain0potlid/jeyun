@@ -1,9 +1,0 @@
-name: YunbumZombies
-version: 0.1
-main: com.max.max.main
-author : captain0potlid
-description : Plugin for Yunbum
-commands :
-  test:
-    description: test
-    usage: /test

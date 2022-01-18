@@ -1,0 +1,18 @@
+name: YunbumZombies
+version: 0.1
+main: com.max.max.main
+author : captain0potlid
+description : Plugin for Yunbum
+commands :
+  test:
+    description: test
+    usage: /test
+  join:
+    description: join
+    usage: /join
+  game:
+    description: game
+    usage: /game
+  admin:
+    description: admin
+    usage: /admin

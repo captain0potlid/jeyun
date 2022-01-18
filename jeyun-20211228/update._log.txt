@@ -1,0 +1,9 @@
+This docuement only affects to captain0potlid/jeyun Github repository.
+이 문서는 Github의 captain0potlid/jeyun 레포지터리에만 영향을 줍니다.
+
+1. Adventure Mode is just dummy mode. NO UPDATES FOR IT.
+	> 수정 <
+		1. 모드 상관 X 플레이 가능토록 개발.
+2. FRCX Deep packet inspection needed!!!
+	> 수정 <
+		2. Final FRCX Development with JVM corped [OK]

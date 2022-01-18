@@ -1,0 +1,26 @@
+Location TRX = loc.clone().add(Startup.misol() * 10, 30, Startup.misol() * 10);
+				Location WXW = TRX.clone().add(-Startup.misol() * 10, 30, -Startup.misol() * 10);
+				Location jam = WXW.clone().add(Startup.misol(), 30, Startup.misol());
+				Location mag = jam.clone().add(-Startup.misol(), 30, -Startup.misol());
+				mag.setY(110);
+
+//				Bukkit.broadcastMessage(
+//						(double) Math.round(mag.getX() * 100) + ", " + (double) Math.round(mag.getZ() * 100));
+				if(mag.clone().getBlock().getType() == Material.BEACON) {
+					eq++;
+					Bukkit.broadcastMessage(total + " 회 시도, " + eq + " 회 일치 - " + eq*100/total + "%");
+				}
+				mag.clone().getBlock().setType(Material.BEACON);
+				mag.setY(109);
+				mag.clone().getBlock().setType(Material.DIAMOND_BLOCK);
+
+//				mag.clone().add(-1, 0, -1).getBlock().setType(Material.DIAMOND_BLOCK);
+//				mag.clone().add(1, 0, -1).getBlock().setType(Material.DIAMOND_BLOCK);
+//				mag.clone().add(-1, 0, 1).getBlock().setType(Material.DIAMOND_BLOCK);
+//				mag.clone().add(1, 0, 1).getBlock().setType(Material.DIAMOND_BLOCK);
+//
+//				mag.clone().add(-1, 0, 0).getBlock().setType(Material.DIAMOND_BLOCK);
+//				mag.clone().add(0, 0, -1).getBlock().setType(Material.DIAMOND_BLOCK);
+//
+//				mag.clone().add(1, 0, 0).getBlock().setType(Material.DIAMOND_BLOCK);
+//				mag.clone().add(0, 0, 1).getBlock().setType(Material.DIAMOND_BLOCK);

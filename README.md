@@ -16,7 +16,7 @@
     <tr>
 	<td>JVM(자바)</td>
 	<td>1.8(or 8)</td>
-	<td>11 LSC</td>
+	<td>12 MTE</td>
     </tr>
     <tr>
 	<td>RAM(메모리)</td>
